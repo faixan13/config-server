@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: config-server-normal
- 
 eureka:
  client:
   register-with-eureka: true
